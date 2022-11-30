@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/iampranabroy/gitops-folder-per-env
-    targetRevision: 
+    targetRevision: main
     path: "development"
   destination:
     server: https://kubernetes.default.svc
